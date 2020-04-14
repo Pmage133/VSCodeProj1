@@ -1,0 +1,16 @@
+*.scc
+*.log
+*.user
+*.suo
+*.cachefile
+*.ncb
+*.orig
+!.gitignore
+bin/
+obj/
+.vs/
+build
+packages
+.vscode
+npm-debug.log
+Thumbs.db
